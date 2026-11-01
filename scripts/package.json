@@ -1,0 +1,11 @@
+{
+  "name": "do-not-disturb-site-checks",
+  "private": true,
+  "description": "The tools scripts/check.sh runs: the page is plain static files and needs none of them.",
+  "type": "module",
+  "devDependencies": {
+    "html-validate": "11.16.2",
+    "lighthouse": "13.5.0",
+    "playwright": "1.61.1"
+  }
+}
