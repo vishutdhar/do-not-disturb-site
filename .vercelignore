@@ -1,0 +1,6 @@
+# Kept out of every deployment: the sources and tooling the page does not load.
+assets/src
+docs
+scripts
+README.md
+.gitignore
